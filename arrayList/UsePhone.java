@@ -57,6 +57,7 @@ public class UsePhone {
 		}
 		phones.forEach(c-> System.out.println(c));
 		//System.out.println(phones);
+		System.out.println("GIT UP PROJECT CHECK ");
 	}
 
 }
